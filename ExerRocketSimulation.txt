@@ -1,0 +1,37 @@
+ExerRocketSimulation
+stored in D:\LessImp\1qLimisc\ReplitUploads\classEx\Ch24HTTPforms
+Also stored in C:\Users\h19sl\Documents\exerRocketSimulation\extraFiles
+D:\1HowTO\1aHowTO\GeneralCodingHowTO\HTTPtoUseHTMLDOMcssJavaScript\1aHTTPch25DOM
+
+2:34 PM 3/7/2022  to 
+
+
+==========++=  2:34 PM 3/7/2022  ============
+
+<!--https://replit.com/@Hcoder/Exercises-rocket-simulation#index.html
+-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Rocket Simulation</title>
+    <style>
+      label { display: block; margin-bottom: 7px;}
+    </style>
+  </head>
+  <body>
+    <!-- TODO: add form here -->
+    
+
+    <p>WARNING: This ONLY works in <b>replit</b> if this "result" page is opened in its own window. Click the icon that shows a box with an arrow coming out of it.
+    </p>
+  </body>
+  
+</html>
+
+
+
+
+
+
+============++++====================
